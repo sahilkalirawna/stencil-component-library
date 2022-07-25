@@ -9,10 +9,10 @@
   "types": "dist/types/components.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "collection:main": "dist/collection/index.js",
-  "unpkg": "dist/kk-component-library/kk-component-library.esm.js",
+  "unpkg": "dist/component-library/component-library.esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kkakroo/stencil-js.git"
+    "url": "https://github.com/sahilkalirawna/stencil-component-library.git"
   },
   "files": [
     "dist/",
